@@ -15,4 +15,10 @@ D Power symbol creates a global label with name "VSYS"
 K power-flag
 $ENDCMP
 #
+$CMP WS2812B-2020
+D RGB LED with integrated controller
+K RGB LED NeoPixel addressable
+F https://ipfs.subutai.io/ipfs/QmZmd8EhhSndPhAMbqVdPehwjYAV11jtsynmcQFFp5Wgz3/WS2812B-2020_V1.3_EN_19112716201493.pdf
+$ENDCMP
+#
 #End Doc Library
