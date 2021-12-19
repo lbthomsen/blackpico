@@ -1,0 +1,7 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP RP2040
+F https://datasheet.lcsc.com/lcsc/2111111230_Raspberry-Pi-RP2040_C2040.pdf
+$ENDCMP
+#
+#End Doc Library

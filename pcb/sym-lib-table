@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name blackpico)(type Legacy)(uri ${KIPRJMOD}/blackpico.lib)(options "")(descr ""))
+)
