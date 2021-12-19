@@ -1,0 +1,5 @@
+(fp_lib_table
+  (lib (name blackpico)(type KiCad)(uri ${KIPRJMOD}/blackpico.pretty)(options "")(descr ""))
+  (lib (name stm32world)(type KiCad)(uri /home/lth/src/stm32world/hardware/lib/stm32world.pretty)(options "")(descr ""))
+  (lib (name greenpill)(type KiCad)(uri /home/lth/src/greenpill/pcb/greenpill.pretty)(options "")(descr ""))
+)

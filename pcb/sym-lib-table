@@ -1,3 +1,4 @@
 (sym_lib_table
   (lib (name blackpico)(type Legacy)(uri ${KIPRJMOD}/blackpico.lib)(options "")(descr ""))
+  (lib (name greenpill)(type Legacy)(uri /home/lth/src/greenpill/pcb/greenpill.lib)(options "")(descr ""))
 )
