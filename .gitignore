@@ -1,0 +1,6 @@
+/.metadata/
+*bak
+*cache*
+*-cache
+Debug/
+language.settings.xml
