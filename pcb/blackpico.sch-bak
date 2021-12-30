@@ -250,7 +250,7 @@ Wire Wire Line
 Wire Wire Line
 	3400 7200 3400 7050
 Text GLabel 3850 7200 2    50   Input ~ 0
-C13
+LED
 Wire Wire Line
 	3750 6150 3750 6350
 Wire Wire Line
@@ -1886,4 +1886,12 @@ Connection ~ 10600 4400
 Wire Wire Line
 	10600 4500 10400 4500
 Connection ~ 10600 4500
+Text GLabel 9100 3400 2    50   Input ~ 0
+RGB
+Text GLabel 9100 3500 2    50   Input ~ 0
+LED
+Wire Wire Line
+	9100 3400 9000 3400
+Wire Wire Line
+	9000 3500 9100 3500
 $EndSCHEMATC
